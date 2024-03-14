@@ -9,9 +9,7 @@ export default function Footer() {
       <h2>Redux Shopping Cart</h2>
       <p>
         &copy; <span>{year}</span> - All Rights Copyright Reserved To{" "}
-        <a target="_blank" rel="noreferrer" href="http://www.samiurrahmanmukul.epizy.com">
-          Vipul Kumawat 2001 
-        </a>
+       <span>vipul kumawat 2001</span>
       </p>
     </footer>
   );

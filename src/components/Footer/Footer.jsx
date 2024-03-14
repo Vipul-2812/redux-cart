@@ -10,7 +10,7 @@ export default function Footer() {
       <p>
         &copy; <span>{year}</span> - All Rights Copyright Reserved To{" "}
         <a target="_blank" rel="noreferrer" href="http://www.samiurrahmanmukul.epizy.com">
-          Vipul Kumawat
+          Vipul Kumawat 2001 
         </a>
       </p>
     </footer>
